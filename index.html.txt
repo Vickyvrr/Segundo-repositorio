@@ -1,0 +1,5 @@
+git init
+git add -A 
+git commit -m "segundo ejemplo"
+hit remote add origin https://github.com/Vickyvrr/Segundo-repositorio.git
+git push origin main
